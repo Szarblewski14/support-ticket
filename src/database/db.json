@@ -1,1 +1,13 @@
-{}
+{
+    "tickets": [
+        {
+            "id": "ddfb4f4f-49b9-4593-b565-0c7d217c585a",
+            "equipment": "computador",
+            "description": "Computador nao liga",
+            "user_name": "leonardo laurindo",
+            "status": "open",
+            "created_at": "2025-01-27T18:54:35.429Z",
+            "update_at": "2025-01-27T18:54:35.429Z"
+        }
+    ]
+}
